@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------------------------------------------
+
+Screen Size:
+
+width = 1300
+hight = 700
+
+-----------------------------------------------------------------------------------------------------------
+
+Scenes:
+
+code = [-1] : Opening of the game. Have two scene one after another.
+code = [0] : main menu of the game
+code = [1] : play game starting how to play scene
+code = [2] : Main game scene - 1
+code = [6] : game other button mappings
+code = [7] : Your Score Page AKA game Over
+code = [3] : high score scene
+code = [4] : About scene
+code = [5] : exit scene
+code = [8] : Enter Name Scene
+code = [100] : exit
+
+-----------------------------------------------------------------------------------------------------------
+
+button mapings in game:
+
+- WASD / Arrow keys for movement
+- SPACE to pass the game and resume too
+- "M" to toogle sound
+
+------------------------------------------------------------------------------------------------------------
+
+Main Bike size = 65 * 120
+
+
+level 1 = 100 - 120
+level 2 = 50 - 100
+level 3 = 50
